@@ -3,7 +3,7 @@
 CryptoSlices is a real-time cryptocurrency analytics platform that provides market insights for major cryptocurrencies such as Bitcoin, Ethereum, Solana, Cardano, and more.
 The application fetches live data from the CoinGecko API and visualizes market trends through interactive charts and dashboards.
 
-🌐 Live Demo: https://cryptoslices.netlify.app/
+🌐 Live Demo: https://cryptoslices.netlify.app
 💻 GitHub Repository: https://github.com/mithun0773/crypto-place
 
 📊 Features
@@ -88,15 +88,14 @@ npm install
 
 Run the development server:
 
-npm start
+npm run dev
 
 The application will run at:
 
-http://localhost:3000
+http://localhost:5173
 
 📸 Screenshots
 
-You can add screenshots of the dashboard here to showcase charts and UI.
 
 📌 Future Enhancements
 
